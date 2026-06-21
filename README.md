@@ -32,7 +32,7 @@ GM_xmlhttpRequest({
 });
 ```
 
-A minimal loader that downloads and executes the latest version of the userscript from a remote source. The URL is XOR-encoded to avoid exposing the raw link directly and to discourage simple copy-pasting or casual modification.
+A minimal loader that downloads and executes the latest version of the userscript from a remote source. The URL is encrypted to avoid exposing the raw link directly to skidders.
 
 ## Explanation on how it works
 
