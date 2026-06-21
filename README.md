@@ -14,7 +14,8 @@ It enables stereo transmission by adjusting the channel configuration used by Di
 - Auto Gain Control toggle
 - Built-in settings UI integrated into Discord Web
 
-### Tampermonkey script (copy and paste it in your tampermonkey)
+### Tampermonkey script 
+`(copy and paste it in your tampermonkey user scripts)`
 
 ```js
 // ==UserScript==
